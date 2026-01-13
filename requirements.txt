@@ -1,0 +1,21 @@
+# Core data handling
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Model persistence
+joblib
+
+# Visualization (used in notebook / analysis)
+matplotlib
+seaborn
+
+# Web application
+streamlit
+
+# Jupyter support (for training & experiments)
+jupyter
+ipykernel
